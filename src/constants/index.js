@@ -7,6 +7,6 @@
 /**
  * Wedding time
  */
-// export const EPOCH_START_EVENT = 1613952139;
-// export const EPOCH_END_EVENT = 1613952139;
-export const UTC_WEDDING_TIME = '2020-10-03:04:00:00Z';
+export const EPOCH_START_EVENT = 1660957200;
+export const EPOCH_END_EVENT = 1660989600;
+export const UTC_WEDDING_TIME = '2022-08-20:09:00:00Z';
