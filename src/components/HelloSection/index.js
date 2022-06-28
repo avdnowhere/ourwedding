@@ -64,7 +64,7 @@ function HelloSection({ isInvitation }) {
                 <h2 className="main-font">Sekilas Covid-19</h2>
                 <p className="info">
                   Berkaitan dengan kondisi pandemik saat ini, keberlangsungan majlis kami akan mengikuti 
-                  prosedur operasi standard (SOP) daripada KKM, yaitu mewajibkan pemakaian pelitup muka kepada semua tamu yang hadir.
+                  prosedur operasi standard (SOP) daripada KKM, yaitu mewajibkan pemakaian pelitup muka kepada semua tetamu yang hadir.
                 </p>
               </div>
             </div>
