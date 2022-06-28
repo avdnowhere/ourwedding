@@ -26,8 +26,7 @@ function FooterSection({ isInvitation }) {
           <div className="row copyright">
             <div className="col-md-12 text-center">
               <p>
-                <small className="block">Original Template By &copy; 2020 Dinda & Indra Wedding.</small>
-                <small className="block">All Rights Reserved.</small>
+                <small className="block">Original Design By &copy; 2020 Dinda & Indra Wedding.</small>
                 <small className="block">
                   Covid-19 Icon by{' '}
                   <a href="https://www.flaticon.com/packs/covid-protection-measures-5" target="_blank" rel="noreferrer">
@@ -46,6 +45,7 @@ function FooterSection({ isInvitation }) {
                     FREEHTML5.co
                   </a>
                 </small>
+                <small className="block">All Rights Reserved.</small>
               </p>
             </div>
           </div>
