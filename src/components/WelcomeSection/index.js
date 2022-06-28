@@ -45,7 +45,7 @@ function WelcomeSection({ location, guestName, isInvitation, isAnonymGuest, code
   };
 
   const renderGuestSection = () => {
-    if (isAnonymGuest) return <h2 className="to-dearest-name">Dear Friends,</h2>;
+    if (isAnonymGuest) return <h2 className="to-dearest-name">Welcome Everyone.. 😊</h2>;
 
     return (
       <Fragment>
