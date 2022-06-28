@@ -7,12 +7,12 @@ function ButtonLive() {
   return (
     <div className="row">
       <div className="col-md-12">
-        <p className="text__live">Hadir secara virtual melalui siaran langsung instagram: </p>
-        <a href="https://www.instagram.com/dindadipoyono/" target="_blank" rel="noreferrer">
+        <p className="text__live">Follow instagram kami di</p>
+        <a href="https://www.instagram.com/norainjohari/" target="_blank" rel="noreferrer">
           <div css={styButtonWrapper}>
             <div className="img__wrapper">
               <img src={IconIg} alt="Live IG" />
-              <span>@dindadipoyono</span>
+              <span>@norainjohari</span>
             </div>
           </div>
         </a>
