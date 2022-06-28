@@ -13,7 +13,7 @@ function CountContainer() {
       <>
         <div className="row">
           <div className="col-md-12" style={{ fontSize: '20px' }}>
-            {`ACARA ${finalText} BERLANGSUNG!`}
+            {`TERIMA KASIH KERANA HADIR KE MAJLIS KAMI`}
           </div>
         </div>
         <ButtonLive />
