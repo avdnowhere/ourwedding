@@ -66,11 +66,6 @@ function HelloSection({ isInvitation }) {
                   Berkaitan dengan kondisi pandemik saat ini, keberlangsungan majlis kami akan mengikuti 
                   prosedur operasi standard (SOP) daripada KKM, yaitu mewajibkan pemakaian pelitup muka kepada semua tamu yang hadir.
                 </p>
-//                 <p className="info">
-//                   Maka dari itu, dengan segala kerendahan hati, kami mohon maaf jika belum bisa mengundang saudara/i
-//                   dihari bahagia kami. Sekiranya do'a dari saudara/i sudah lebih dari cukup bagi kami. Semoga kita semua
-//                   selalu dalam lindungan Allah SWT. Aamiin ya rabbal allamiin..
-//                 </p>
               </div>
             </div>
           </div>
