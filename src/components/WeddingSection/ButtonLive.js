@@ -7,12 +7,20 @@ function ButtonLive() {
   return (
     <div className="row">
       <div className="col-md-12">
-        <p className="text__live">Follow instagram kami di</p>
+        <p className="text__live">Follow instagram kami</p>
         <a href="https://www.instagram.com/norainjohari/" target="_blank" rel="noreferrer">
           <div css={styButtonWrapper}>
             <div className="img__wrapper">
-              <img src={IconIg} alt="Live IG" />
+              <img src={IconIg} alt="Norain IG" />
               <span>@norainjohari</span>
+            </div>
+          </div>
+        </a>
+        <a href="https://www.instagram.com/avdnowhere/" target="_blank" rel="noreferrer">
+          <div css={styButtonWrapper}>
+            <div className="img__wrapper">
+              <img src={IconIg} alt="Ammy IG" />
+              <span>@avdnowhere</span>
             </div>
           </div>
         </a>
