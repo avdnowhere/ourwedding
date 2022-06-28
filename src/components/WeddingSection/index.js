@@ -9,7 +9,7 @@ function WeddingSection({ isInvitation }) {
   const renderGuestInfo = () => {
     return (
       <Fragment>
-        <div className="col-md-8 col-md-offset-4">
+        <div className="col-md-10 col-md-offset-1">
           <WeddingInfoBox title="Akad Nikah" time="09.00 PAGI" date="Sabtu, 20 Ogos 2022" />
           <WeddingInfoBox title="Majlis Perkahwinan" time="01.00 PETANG" date="Sabtu, 20 Ogos 2022" />
         </div>
